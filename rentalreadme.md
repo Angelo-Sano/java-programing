@@ -19,6 +19,6 @@ A Java console application designed to calculate total rental costs based on spe
 ## Example Run
 
 
-Enter startind time (0-23): 6
+Enter start time (0-23): 6
 Enter ending time(1-24): 15
 Total rental cost =9000RWF
