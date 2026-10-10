@@ -15,31 +15,10 @@ A Java console application designed to calculate total rental costs based on spe
   - **19:00 - 21:00**: 1,000 RWF / hour
   - **21:00 - 24:00**: 500 RWF / hour
 
-## Prerequisites
-
-- **Java Development Kit (JDK)**: Version 8 or higher.
-- Terminal / Command Prompt or any standard Java IDE (NetBeans, IntelliJ, Eclipse, VS Code).
-
-## Getting Started & Execution
-
-1. Make sure `Home.java` is in the `com/mycompany/home` directory path matching its package declaration.
-2. Open your terminal and compile the file:
-   ```bash
-   javac com/mycompany/home/Home.java
-   ```
-3. Run the application:
-   ```bash
-   java com.mycompany.home.Home
-   ```
 
 ## Example Run
 
-```text
+
 Enter startind time (0-23): 6
 Enter ending time(1-24): 15
 Total rental cost =9000RWF
-```
-
-## Author
-
-* **alain**
